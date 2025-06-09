@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blognya KODESUMBER.COM</title>
+    <link>https://blog.kodesumber.com/</link>
+    <description>Recent content on Blognya KODESUMBER.COM</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Mon, 09 Jun 2025 11:31:07 +0700</lastBuildDate>
+    <atom:link href="https://blog.kodesumber.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VyOS, Distro Router dan Firewall Opensource</title>
+      <link>https://blog.kodesumber.com/posts/vyos-distro-router-dan-firewall-opensource/</link>
+      <pubDate>Mon, 09 Jun 2025 02:11:53 +0700</pubDate>
+      <guid>https://blog.kodesumber.com/posts/vyos-distro-router-dan-firewall-opensource/</guid>
+      <description>VyOS adalah sebuah sistem operasi Linux spesial di bidang networking. Berbasis Debian, VyOS menyediakan platform  yang bersaing dengan solusi-solusi komersial router/firewall yang tersedia</description>
+    </item>
+    <item>
+      <title>Border Gateway Protocol (BGP), Protokol Paling Penting di Internet setelah TCP/IP</title>
+      <link>https://blog.kodesumber.com/posts/border-gateway-protocol-bgp-protokol-paling-penting-di-internet-setelah-tcp-ip/</link>
+      <pubDate>Mon, 09 Jun 2025 00:24:22 +0700</pubDate>
+      <guid>https://blog.kodesumber.com/posts/border-gateway-protocol-bgp-protokol-paling-penting-di-internet-setelah-tcp-ip/</guid>
+      <description>Tahukah Anda, bahwa ketika Anda membuka perambah web dan mengakses suatu halaman di Internet permintaan Anda tersebut akan melewati beberapa jaringan (network) yang dimiliki dan dikelola oleh beberapa pihak terpisah?</description>
+    </item>
+    <item>
+      <title>Prometheus dan Grafana, Duet Monitoring dan Dashboard</title>
+      <link>https://blog.kodesumber.com/posts/prometheus-dan-grafana-duet-monitoring-dan-dashboard/</link>
+      <pubDate>Sun, 08 Jun 2025 19:27:42 +0700</pubDate>
+      <guid>https://blog.kodesumber.com/posts/prometheus-dan-grafana-duet-monitoring-dan-dashboard/</guid>
+      <description>Prometheus dan Grafana adalah duet de-facto dalam monitoring dan dashboard</description>
+    </item>
+    <item>
+      <title>Menggunakan Caddy Sebagai Reverse-Proxy Web Secara Mudah</title>
+      <link>https://blog.kodesumber.com/posts/menggunakan-caddy-sebagai-reverse-proxy-web-secara-mudah/</link>
+      <pubDate>Sun, 08 Jun 2025 02:36:03 +0700</pubDate>
+      <guid>https://blog.kodesumber.com/posts/menggunakan-caddy-sebagai-reverse-proxy-web-secara-mudah/</guid>
+      <description>Kami sadar bahwa sebagian besar sysop memilih NGINX, tetapi pilihan Kami sebagai server reverse proxy web adalah Caddy</description>
+    </item>
+    <item>
+      <title>Quadlet di Podman</title>
+      <link>https://blog.kodesumber.com/posts/podman-dan-quadlet/</link>
+      <pubDate>Sat, 07 Jun 2025 23:58:59 +0700</pubDate>
+      <guid>https://blog.kodesumber.com/posts/podman-dan-quadlet/</guid>
+      <description>Quadlet adalah sebuah tool yang dijadikan standar untuk menjalankan container podman   secara optimal di lingkungan systemd</description>
+    </item>
+    <item>
+      <title>Fedora CoreOS, OS minimal dengan auto-update, teroptimasi untuk tugas container</title>
+      <link>https://blog.kodesumber.com/posts/fedora-coreos-os-minimal-dengan-auto-update-teroptimasi-untuk-tugas-container/</link>
+      <pubDate>Sat, 07 Jun 2025 17:57:58 +0700</pubDate>
+      <guid>https://blog.kodesumber.com/posts/fedora-coreos-os-minimal-dengan-auto-update-teroptimasi-untuk-tugas-container/</guid>
+      <description>Berkenalan dengan Fedora CoreOS</description>
+    </item>
+  </channel>
+</rss>

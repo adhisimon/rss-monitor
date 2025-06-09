@@ -1,2 +1,4 @@
-# rss-monitor
-Monitor RSS feeds and send notification on new item
+# RSS Monitor
+**WORK IN PROGRESS**
+
+Monitor RSS feeds and send notification on new item.

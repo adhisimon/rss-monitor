@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS `feed_items` (
+  `uuid` UUID NOT NULL DEFAULT uuid (),
+  `feed_url` VARCHAR(2048) NOT NULL,
+  `title` VARCHAR(1024) CHARACTER SET utf8mb4 COLLATE utf8mb4_bin NOT NULL,
+  `pubDate` TIMESTAMP NOT NULL,
+  `creator` VARCHAR(512) CHARACTER SET utf8mb4 COLLATE utf8mb4_bin NULL DEFAULT NULL,
+  `content` TEXT CHARACTER SET utf8mb4 COLLATE utf8mb4_bin NULL DEFAULT NULL,
+  `content_snippet` TEXT CHARACTER SET utf8mb4 COLLATE utf8mb4_bin NULL DEFAULT NULL,
+  `guid` VARCHAR(2048) NOT NULL,
+  PRIMARY KEY (`uuid`)
+) ENGINE = InnoDB;

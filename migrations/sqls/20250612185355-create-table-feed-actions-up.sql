@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS `feed_actions` (
+  `uuid` UUID NOT NULL DEFAULT uuid (),
+  `feed_uuid` UUID NOT NULL,
+  `action` VARCHAR(32) NOT NULL,
+  `target` VARCHAR(256) NOT NULL,
+  `last_action` TIMESTAMP on update CURRENT_TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`uuid`)
+) ENGINE = InnoDB;

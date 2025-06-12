@@ -1,0 +1,11 @@
+CREATE TABLE `feed_info` (
+  `uuid` UUID NOT NULL,
+  `url` VARCHAR(2048) NOT NULL,
+  `modified` TIMESTAMP on update CURRENT_TIMESTAMP NOT NULL,
+  `title` VARCHAR(256) NULL DEFAULT NULL,
+  `description` VARCHAR(2048) NULL DEFAULT NULL,
+  `link` VARCHAR(20248) NULL DEFAULT NULL,
+  PRIMARY KEY (`uuid`)
+) ENGINE = InnoDB;
+
+ALTER TABLE `feed_info` ADD UNIQUE IF NOT EXISTS `url` (`url`);
